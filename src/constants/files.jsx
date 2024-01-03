@@ -1,3 +1,3 @@
-import resume from "../assets/images/Manisha-Prajapati-Resume.pdf";
+import resume from "../assets/images/abdulkarim-shaikh.pdf";
 
 export { resume };

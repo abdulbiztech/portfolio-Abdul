@@ -33,8 +33,8 @@ const ContactSection = () => {
                     <div className="info-card">
                       <h5>Mail Me</h5>
                       <p>
-                        <a href="mailto: manprajapati268@gmail.com">
-                          manprajapati268@gmail.com
+                        <a href="mailto: abdulkarims582@gmail.com">
+                          abdulkarims582@gmail.com
                         </a>
                       </p>
                     </div>
@@ -42,23 +42,17 @@ const ContactSection = () => {
                 </div>
               </div>
               <div className="social-icons">
-                {/* <a href="#">
-                  <FaFacebookF />
-                </a> */}
                 <Link
-                  to="https://www.instagram.com/manishaprajapati492/"
+                  to="https://www.instagram.com/abdulkarims581/"
                   target="_blank"
                 >
                   <FaInstagram />
                 </Link>
-                <Link
-                  to="https://github.com/ManishaPrajapati-27/"
-                  target="_blank"
-                >
+                <Link to="https://github.com/abdulbiztech/" target="_blank">
                   <FiGithub />
                 </Link>
                 <Link
-                  to="https://www.linkedin.com/in/manisha-prajapati-019373221/"
+                  to="https://www.linkedin.com/in/abdulkarim-shaikh/"
                   target="_blank"
                 >
                   <FaLinkedinIn />

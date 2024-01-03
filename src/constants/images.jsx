@@ -6,7 +6,7 @@ import heroImage from "../assets/images/hero/hero.png";
 import skewImage from "../assets/images/hero/skew-hero.png";
 
 // About
-import aboutImage from "../assets/images/about/about.jpg";
+import aboutImage from "../assets/images/about/about.png";
 
 // Projects
 import IceCreamShop from "../assets/images/projects/ice-cream-shop.png";
@@ -31,12 +31,14 @@ import html from "../assets/images/skills/html.png";
 import css from "../assets/images/skills/css.png";
 import js from "../assets/images/skills/js.png";
 import figma from "../assets/images/skills/figma.png";
-import django from "../assets/images/skills/django.png";
 import python from "../assets/images/skills/python.png";
 import bootstrap from "../assets/images/skills/bootstrap.png";
 import react from "../assets/images/skills/react.png";
 import sass from "../assets/images/skills/sass.png";
-
+import angular from "../assets/images/skills/angular.png";
+import nodejs from "../assets/images/skills/nodejs.png";
+import mongodb from "../assets/images/skills/mongodb.png";
+import typescript from "../assets/images/skills/typescript.png";
 export {
   logo,
   heroImage,
@@ -60,9 +62,12 @@ export {
   css,
   js,
   figma,
-  django,
   python,
   bootstrap,
   react,
   sass,
+  mongodb,
+  angular,
+  nodejs,
+  typescript,
 };

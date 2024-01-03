@@ -56,7 +56,7 @@ export default function Navbar() {
               to={resume}
               target="_blank"
               className="button ms-lg-2"
-              download="Manisha-Prajapati-Resume.pdf"
+              download="Abdulkarim-Shaikh.pdf"
             >
               <FaDownload /> Resume
             </Link>

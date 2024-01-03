@@ -78,9 +78,9 @@
         }
       }
 
-      .heading {
-        padding-top: 100px;
-      }
+      // .heading {
+      //   padding-top: 100px;
+      // }
 
       .icon {
         @include m.icons(v.$primary, v.$light);

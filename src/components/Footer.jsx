@@ -48,10 +48,10 @@ const Footer = () => {
                 <div className="col-10 d-flex align-items-center">
                   <p>
                     <a
-                      href="mailto: manprajapati268@gmail.com"
+                      href="mailto: abdulkarims582@gmail.com"
                       className="text-link"
                     >
-                      manprajapati268@gmail.com
+                      abdulkarims582@gmail.com
                     </a>
                   </p>
                 </div>
@@ -61,25 +61,22 @@ const Footer = () => {
                   <FaFacebookF />
                 </a> */}
                 <Link
-                  to="https://www.instagram.com/manishaprajapati492/"
+                  to="https://www.instagram.com/abdulkarims581/"
                   target="_blank"
                 >
                   <FaInstagram />
                 </Link>
-                <Link
-                  to="https://github.com/ManishaPrajapati-27/"
-                  target="_blank"
-                >
+                <Link to="https://github.com/abdulbiztech/" target="_blank">
                   <FiGithub />
                 </Link>
                 <Link
-                  to="https://www.linkedin.com/in/manisha-prajapati-019373221/"
+                  to="https://www.linkedin.com/in/abdulkarim-shaikh/"
                   target="_blank"
                 >
                   <FaLinkedinIn />
                 </Link>
               </div>
-              <p className="mt-5 text-light-alt">©2023. Manisha Prajapati</p>
+              <p className="mt-5 text-light-alt">©2023. Abdulkarim Shaikh</p>
             </div>
           </div>
         </div>

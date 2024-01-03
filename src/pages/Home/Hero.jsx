@@ -32,7 +32,7 @@ const Hero = () => {
           transition={{ type: "tween", duration: 1, delay: 3 }}
         >
           {" "}
-          <span>Manisha Prajapati Web Designer & Developer</span>
+          <span>Abdul Karim Shaikh Full Stack Developer</span>
         </motion.h2>
       </div>
     </section>

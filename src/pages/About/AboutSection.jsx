@@ -13,20 +13,21 @@ const AboutSection = () => {
                 About Me <span></span>
               </h5>
               <h2 className="heading mb-1">
-                Designer <span>&</span> Developer <span>Based In Thane</span>
+                Full Stack Developer<span>Based In Mumbai</span>
               </h2>
               <p className="mb-1">
-                I am a Frontend Developer. I live in Titwala.
+                👋 Hello! I'm Abdul, a passionate Full Stack Developer with 2
+                years of hands-on experience in crafting and delivering
+                innovative web solutions. My journey in the world of coding
+                began with a strong curiosity for both frontend and backend
+                technologies, and it has evolved into a rewarding career.
               </p>
               <p className="mb-1">
-                I like to create new designs for websites. I enjoy working in
-                programming languages for developing websites. I try to create
-                design for websites that give the best experience to users. My
-                goal is to create and develop websites and applications that
-                fulfill all requirements of users.
-              </p>
-              <p className="mb-2">
-                I also like to listen to songs and watch videos on YouTube.
+                🌟 As I continue on this journey, I'm excited to connect with
+                fellow developers, tech enthusiasts, and professionals who share
+                the same passion for innovation and problem-solving. Let's
+                explore new possibilities and make the digital world more
+                dynamic together!"
               </p>
             </motion.div>
           </div>
